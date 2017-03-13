@@ -1,13 +1,13 @@
-baseurl = "http://example.com/"
-title = "myproject"
+baseurl = "https://terraphilosofica.github.io/hugo-darkdoc-theme/"
+title = "DarcDoc files"
 theme = "hugo-darkdoc-theme"
 metadataformat = "yaml"
 pygmentsUseClasses = true
 
 [params]
 	# General information
-	author = "My Name"
-	description = "a good description"
+	author = "Aleksandra Veljkovic"
+	description = "I am philosopher interested in webdesign and photography"
 	copyright = "Released under my prefered license"
 
   #demo website
@@ -15,8 +15,8 @@ pygmentsUseClasses = true
 
 	# Repository
 	provider = "GitHub"
-	repo_url = "https://github.com/mynamemyproject"
-	repo_id = "myproject"
+	repo_url = "https://terraphilosofica.github.io/hugo-darkdoc-theme/"
+	repo_id = "hugo-darkdoc-theme"
 
 	version = "1.0.0"
 	favicon = ""
@@ -24,17 +24,15 @@ pygmentsUseClasses = true
 	permalink = "#"
 
 [social]
-	github  = "myname"
+	github  = "terraphilosofica"
 
 [[menu.main]]
-	name   = "Demo"
-	url    = "demo/"
+	name   = "Home"
+	url    = "home/"
 	weight = 0
 
 [[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
+	name   = "About "
+	url    = "about/"
   weight = 10
-
-    Contact GitHub API Training Shop Blog About 
 
