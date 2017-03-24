@@ -6,9 +6,9 @@ pygmentsUseClasses = true
 
 [params]
 	# General information
-	author = "My Name"
-	description = "a good description"
-	copyright = "Released under my prefered license"
+	author = "Aleksandra Veljkovic"
+	description = "welcome to darksoc theme site"
+	copyright = "Released GNU license"
 
   #demo website
   demo_site = "http://demo.example.com"
