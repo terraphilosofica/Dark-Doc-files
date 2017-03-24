@@ -1,5 +1,5 @@
 baseurl = "https://terraphilosofica.github.io/hugo-darkdoc-theme/"
-title = "DarcDoc files"
+title = "Photo portfolio"
 theme = "hugo-darkdoc-theme"
 metadataformat = "yaml"
 pygmentsUseClasses = true
